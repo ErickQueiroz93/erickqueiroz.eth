@@ -1,4 +1,4 @@
-### Hi there 👋, Meu nome é Erick Queiroz
+### Oi pessoal 👋, Meu nome é Erick Queiroz
 #### Tudo é possível com tecnologia! 💻
 ![Tudo é possível com tecnologia! 💻](https://www.wartsila.com/images/default-source/twentyfour7/master-images/blockchain-technology_hype-vs-reality53b2f04a7f0f601bb10cff00002d2314.tmb-1920x690.jpg?sfvrsn=cabd9045_2)
 
@@ -6,11 +6,11 @@ Desenvolvedor Full Stack Web2 e Full Stack Web3
 
 Skills: JS / NODE / REACT / PHP / SOLIDITY
 
-- 🔭 I’m currently working on Blockchain 
-- 🌱 I’m currently learning sobre o mundo crypto 
-- 👯 I’m looking to collaborate on projetos blockchain 
-- 🤔 I’m looking for help with frontend 
-- 💬 Ask me about o mundo de crypto ativos 
+- 🔭 Estou trabalhando com Blockchain 
+- 🌱 Atualmente estou aprendendo sobre o mundo crypto 
+- 👯 Gostaria de colaborar em projetos blockchain 
+- 🤔 Preciso de ajuda em frontend 
+- 💬 Pergute sobre o mundo de crypto ativos 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ErickQueiroz93)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/erickqueiroz.eth/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC7iDqxVHmzhFjhPSXpjqBEg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.youtube.com/channel/UC7iDqxVHmzhFjhPSXpjqBEg)  
